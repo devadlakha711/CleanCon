@@ -230,17 +230,6 @@ npm run build
 4. Push to the branch
 5. Create a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
-## 📞 Support
-
-For technical support or questions:
-- Email: support@cleandrive.org
-- Documentation: [Project Wiki]
-- Issues: [GitHub Issues]
-
 ## 🌍 Environmental Impact
 
 This platform aims to:
